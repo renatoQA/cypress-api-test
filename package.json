@@ -1,0 +1,21 @@
+{
+  "name": "automation-test-jdpi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress:run": "node_modules/.bin/cypress run"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "acceptance",
+    "JavaScript",
+    "JS"
+  ],
+  "author": "Renato Bernardes Fonseca Neto",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^2.0.3",
+    "cypress-wait-until": "^1.7.1"
+  }
+}

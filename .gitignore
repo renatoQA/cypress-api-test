@@ -1,0 +1,11 @@
+node_modules
+cypress/videos
+cypress/screenshots
+.DS_Store
+*.swp
+# Parcel build directories
+.cache
+.build
+# JetBrains Rider
+.idea/
+*.sln.iml
